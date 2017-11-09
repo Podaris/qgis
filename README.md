@@ -16,7 +16,7 @@ While the plugin is in beta, we will not publish to a plugin repository. If you
 are interested in trying out the plugin you can download the latest release zip
 and extract it to your plugin directory.
 
-The various releases can be found here: https://github.com/coreos/dex/releases
+The various releases can be found here: https://github.com/Podaris/qgis/releases
 
 More information on how to do this on your OS can be found here:
 https://gis.stackexchange.com/a/127791
