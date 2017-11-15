@@ -25,7 +25,6 @@ https://gis.stackexchange.com/a/127791
 
 - QGIS > 2.0.0
 - Python
-  - The python requests module: `pip install requests`
   
 ## Help
 For help please contact support@podaris.com
