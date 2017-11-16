@@ -21,6 +21,8 @@ The various releases can be found here: https://github.com/Podaris/qgis/releases
 More information on how to do this on your OS can be found here:
 https://gis.stackexchange.com/a/127791
 
+Once the archive has been extracted, you'll most likely need to restart QGIS and enable the plugin through the plugin manager interface, which can be found in the menu bar under 'Plugins'.
+
 ### Requirements
 
 - QGIS > 2.0.0
